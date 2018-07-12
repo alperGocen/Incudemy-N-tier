@@ -1,0 +1,15 @@
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\obj\Debug\SchoolSystem.DAL.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\obj\Debug\SchoolSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\SchoolSystem.DAL.dll.config
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\SchoolSystem.DAL.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\SchoolSystem.DAL.pdb
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\EntityFramework.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\SchoolSystem.Entity.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\SchoolSystem.Entity.pdb
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\SchoolSystem.Entity.dll.config
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\EntityFramework.xml
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\obj\Debug\SchoolSystem.DAL.csproj.CopyComplete
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\obj\Debug\SchoolSystem.DAL.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.DAL\obj\Debug\SchoolSystem.DAL.pdb

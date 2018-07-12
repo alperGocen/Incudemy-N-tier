@@ -1,0 +1,14 @@
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\bin\Debug\SchoolSystem.Entity.dll.config
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\bin\Debug\SchoolSystem.Entity.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\bin\Debug\SchoolSystem.Entity.pdb
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\bin\Debug\EntityFramework.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\bin\Debug\EntityFramework.xml
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\obj\Debug\SchoolSystem.Entity.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\obj\Debug\SchoolSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\obj\Debug\SchoolSystem.Entity.csproj.CopyComplete
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\obj\Debug\SchoolSystem.Entity.dll
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\obj\Debug\SchoolSystem.Entity.pdb
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\obj\Debug\SchoolSystem.Entity.Migrations.InitialMigration.resources
+C:\Users\alper\source\repos\SchoolSystem\SchoolSystem.Entity\obj\Debug\SchoolSystem.Entity.csproj.GenerateResource.cache
